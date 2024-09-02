@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    }
+  },
+  "pattern": [
+    "LIL",
+    "LSL",
+    "LIL"
+  ],
+  "result": {
+    "item": "advancedcombat:advanced_shield"
+  },
+  "show_notification": true
+}

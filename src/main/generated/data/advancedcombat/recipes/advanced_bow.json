@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    "LIL",
+    "LBL",
+    "LIL"
+  ],
+  "result": {
+    "item": "advancedcombat:advanced_bow"
+  },
+  "show_notification": true
+}

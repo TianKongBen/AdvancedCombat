@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "advancedcombat:nether_fortress_block"
+    },
+    "N": {
+      "item": "minecraft:nether_brick_fence"
+    }
+  },
+  "pattern": [
+    "F F",
+    "N N"
+  ],
+  "result": {
+    "item": "advancedcombat:nether_fortress_boots"
+  },
+  "show_notification": true
+}

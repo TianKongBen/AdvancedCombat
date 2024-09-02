@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:beacon"
+    },
+    "E": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "N": {
+      "item": "advancedcombat:nether_star_block"
+    },
+    "S": {
+      "item": "advancedcombat:nether_star_sword"
+    }
+  },
+  "pattern": [
+    " B ",
+    "ESE",
+    " N "
+  ],
+  "result": {
+    "item": "advancedcombat:advanced_nether_star_sword"
+  },
+  "show_notification": true
+}

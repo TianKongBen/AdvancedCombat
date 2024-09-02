@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "advancedcombat:reinforced_obsidian"
+    }
+  },
+  "pattern": [
+    "O O",
+    "ORO",
+    "ORO"
+  ],
+  "result": {
+    "item": "advancedcombat:obsidian_chestplate"
+  },
+  "show_notification": true
+}

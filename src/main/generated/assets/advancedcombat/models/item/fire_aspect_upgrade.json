@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "advancedcombat:item/fire_aspect_upgrade"
+  }
+}

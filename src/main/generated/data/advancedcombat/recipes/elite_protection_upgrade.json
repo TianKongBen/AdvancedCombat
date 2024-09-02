@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:diamond_chestplate"
+    },
+    "S": {
+      "item": "advancedcombat:protection_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_protection_upgrade"
+  },
+  "show_notification": true
+}

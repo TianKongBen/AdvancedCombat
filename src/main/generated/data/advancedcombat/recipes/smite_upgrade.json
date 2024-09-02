@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "pattern": [
+    "PRP",
+    "RBR",
+    "PRP"
+  ],
+  "result": {
+    "item": "advancedcombat:smite_upgrade"
+  },
+  "show_notification": true
+}

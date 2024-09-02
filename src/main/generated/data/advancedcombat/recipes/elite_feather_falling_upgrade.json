@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "minecraft:beds"
+    },
+    "F": {
+      "item": "minecraft:hay_block"
+    },
+    "S": {
+      "item": "advancedcombat:feather_falling_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_feather_falling_upgrade"
+  },
+  "show_notification": true
+}

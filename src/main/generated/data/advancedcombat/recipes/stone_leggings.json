@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "advancedcombat:advanced_stone"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "ASA",
+    "S S",
+    "S S"
+  ],
+  "result": {
+    "item": "advancedcombat:stone_leggings"
+  },
+  "show_notification": true
+}

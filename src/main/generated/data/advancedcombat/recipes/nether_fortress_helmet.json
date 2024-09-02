@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:nether_bricks"
+    },
+    "F": {
+      "item": "advancedcombat:nether_fortress_block"
+    },
+    "N": {
+      "item": "minecraft:nether_brick_fence"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "N N"
+  ],
+  "result": {
+    "item": "advancedcombat:nether_fortress_helmet"
+  },
+  "show_notification": true
+}

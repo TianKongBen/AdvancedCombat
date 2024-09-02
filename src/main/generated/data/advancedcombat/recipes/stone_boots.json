@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "advancedcombat:advanced_stone"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "A A",
+    "S S"
+  ],
+  "result": {
+    "item": "advancedcombat:stone_boots"
+  },
+  "show_notification": true
+}

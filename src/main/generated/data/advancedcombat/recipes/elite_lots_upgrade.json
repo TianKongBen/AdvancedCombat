@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:emerald"
+    },
+    "F": {
+      "item": "minecraft:rabbit_foot"
+    },
+    "S": {
+      "item": "advancedcombat:lots_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_lots_upgrade"
+  },
+  "show_notification": true
+}

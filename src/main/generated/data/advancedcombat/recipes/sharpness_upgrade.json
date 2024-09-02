@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "I": {
+      "item": "minecraft:iron_sword"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "PFP",
+    "FIF",
+    "PFP"
+  ],
+  "result": {
+    "item": "advancedcombat:sharpness_upgrade"
+  },
+  "show_notification": true
+}

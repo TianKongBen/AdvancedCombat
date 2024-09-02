@@ -1,0 +1,43 @@
+{
+	"schemaVersion": 1,
+	"id": "advancedcombat",
+	"version": "${version}",
+	"name": "Advanced Combat: Re",
+	"description": "This is a remastered version of Advanced Combat! This mod provides extremely powerful swords along with more flexible item enchanting.",
+	"authors": [
+		"TianBen!"
+	],
+	"license": "MIT",
+	"icon": "assets/advancedcombat/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.tianben.advancedcombat.AdvancedCombat"
+		],
+		"client": [
+			"net.tianben.advancedcombat.AdvancedCombatClient"
+		],
+		"fabric-datagen": [
+			"net.tianben.advancedcombat.AdvancedCombatDataGenerator"
+		],
+		"jei_mod_plugin": [
+			"net.tianben.advancedcombat.compat.jei.JEIPlugin"
+		],
+		"rei_client": [
+			"net.tianben.advancedcombat.compat.rei.REIPlugin"
+		]
+	},
+	"mixins": [
+		"advancedcombat.mixins.json"
+	],
+	"depends": {
+      "fabricloader": ">=${loader_version}",
+      "fabric-language-kotlin": ">=${kotlin_loader_version}",
+      "fabric": "*",
+      "minecraft": ">=1.20"
+	},
+	"suggests": {
+		"jei": ">=15.0.0.25",
+		"roughlyenoughitems": ">=12.1.785"
+	}
+}

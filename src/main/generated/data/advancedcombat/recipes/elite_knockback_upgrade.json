@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:slime_block"
+    },
+    "F": {
+      "item": "minecraft:sticky_piston"
+    },
+    "S": {
+      "item": "advancedcombat:knockback_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_knockback_upgrade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "advancedcombat:advanced_stone"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "S S",
+    "SAS",
+    "SAS"
+  ],
+  "result": {
+    "item": "advancedcombat:stone_chestplate"
+  },
+  "show_notification": true
+}

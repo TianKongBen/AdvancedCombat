@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "W": {
+      "item": "minecraft:wooden_sword"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LWL",
+    "LLL"
+  ],
+  "result": {
+    "item": "advancedcombat:advanced_wooden_sword"
+  },
+  "show_notification": true
+}

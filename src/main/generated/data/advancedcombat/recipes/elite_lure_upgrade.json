@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "F": {
+      "tag": "minecraft:fishes"
+    },
+    "S": {
+      "item": "advancedcombat:lure_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_lure_upgrade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "advancedcombat:reinforced_obsidian"
+    }
+  },
+  "pattern": [
+    "ROR",
+    "O O"
+  ],
+  "result": {
+    "item": "advancedcombat:obsidian_helmet"
+  },
+  "show_notification": true
+}

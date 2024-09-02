@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.tianben.advancedcombat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AdvancedShieldPlayerEntityMixin",
+    "LivingEntityMixin",
+    "ProjectileEntityMixin"
+  ],
+  "client": [
+    "AbstractClientPlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
