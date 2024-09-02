@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:diamond"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "ESE",
+    "PEP"
+  ],
+  "result": {
+    "item": "advancedcombat:fortune_upgrade"
+  },
+  "show_notification": true
+}

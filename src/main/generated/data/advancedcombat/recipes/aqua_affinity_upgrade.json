@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:pufferfish"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:iron_pickaxe"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "ESE",
+    "PEP"
+  ],
+  "result": {
+    "item": "advancedcombat:aqua_affinity_upgrade"
+  },
+  "show_notification": true
+}

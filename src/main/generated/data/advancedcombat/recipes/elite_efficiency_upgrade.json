@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:diamond_block"
+    },
+    "F": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "advancedcombat:efficiency_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_efficiency_upgrade"
+  },
+  "show_notification": true
+}

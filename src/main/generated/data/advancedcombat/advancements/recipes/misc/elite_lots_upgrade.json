@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lots_upgrade": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "advancedcombat:lots_upgrade"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:elite_lots_upgrade"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_lots_upgrade",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:elite_lots_upgrade"
+    ]
+  },
+  "sends_telemetry_event": false
+}

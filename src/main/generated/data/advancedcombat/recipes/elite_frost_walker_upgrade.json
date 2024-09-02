@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:packed_ice"
+    },
+    "F": {
+      "item": "minecraft:diamond_boots"
+    },
+    "S": {
+      "item": "advancedcombat:frost_walker_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_frost_walker_upgrade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "advancedcombat:advanced_wooden_sword",
+    "advancedcombat:advanced_stone_sword",
+    "advancedcombat:advanced_iron_sword",
+    "advancedcombat:advanced_golden_sword",
+    "advancedcombat:advanced_emerald_sword",
+    "advancedcombat:advanced_diamond_sword",
+    "advancedcombat:nether_star_sword",
+    "advancedcombat:advanced_nether_star_sword"
+  ]
+}

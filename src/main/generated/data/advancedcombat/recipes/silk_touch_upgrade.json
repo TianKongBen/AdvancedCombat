@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:string"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:golden_pickaxe"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "ESE",
+    "PEP"
+  ],
+  "result": {
+    "item": "advancedcombat:silk_touch_upgrade"
+  },
+  "show_notification": true
+}

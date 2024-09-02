@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:creeper_head"
+    },
+    "F": {
+      "item": "minecraft:tnt"
+    },
+    "S": {
+      "item": "advancedcombat:blast_protection_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_blast_protection_upgrade"
+  },
+  "show_notification": true
+}

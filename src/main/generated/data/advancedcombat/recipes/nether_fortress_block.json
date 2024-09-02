@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "N": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "pattern": [
+    "NIN",
+    "INI",
+    "NIN"
+  ],
+  "result": {
+    "item": "advancedcombat:nether_fortress_block"
+  },
+  "show_notification": true
+}

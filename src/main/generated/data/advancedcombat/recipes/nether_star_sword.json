@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "N",
+    "N",
+    "S"
+  ],
+  "result": {
+    "item": "advancedcombat:nether_star_sword"
+  },
+  "show_notification": true
+}

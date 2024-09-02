@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "advancedcombat:advanced_stone"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "OAO",
+    "AOA",
+    "OAO"
+  ],
+  "result": {
+    "item": "advancedcombat:reinforced_obsidian"
+  },
+  "show_notification": true
+}

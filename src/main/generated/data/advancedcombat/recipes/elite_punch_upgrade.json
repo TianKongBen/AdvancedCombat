@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:slime_block"
+    },
+    "F": {
+      "item": "minecraft:piston"
+    },
+    "S": {
+      "item": "advancedcombat:punch_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_punch_upgrade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_punch_upgrade": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "advancedcombat:punch_upgrade"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:elite_punch_upgrade"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_punch_upgrade",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:elite_punch_upgrade"
+    ]
+  },
+  "sends_telemetry_event": false
+}

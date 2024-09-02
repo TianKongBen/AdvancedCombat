@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:diamond_block"
+    },
+    "F": {
+      "item": "minecraft:ghast_tear"
+    },
+    "S": {
+      "item": "advancedcombat:unbreaking_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_unbreaking_upgrade"
+  },
+  "show_notification": true
+}

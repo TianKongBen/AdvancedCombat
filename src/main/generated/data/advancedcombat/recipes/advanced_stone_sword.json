@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "advancedcombat:advanced_stone"
+    },
+    "S": {
+      "item": "minecraft:stone_sword"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ASA",
+    "AAA"
+  ],
+  "result": {
+    "item": "advancedcombat:advanced_stone_sword"
+  },
+  "show_notification": true
+}

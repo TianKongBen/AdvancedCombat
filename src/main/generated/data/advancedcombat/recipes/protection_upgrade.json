@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:shield"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "ESE",
+    "PEP"
+  ],
+  "result": {
+    "item": "advancedcombat:protection_upgrade"
+  },
+  "show_notification": true
+}

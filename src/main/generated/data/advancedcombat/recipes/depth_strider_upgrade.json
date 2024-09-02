@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:leather_boots"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "PEP",
+    "ESE",
+    "PEP"
+  ],
+  "result": {
+    "item": "advancedcombat:depth_strider_upgrade"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:iron_block"
+    },
+    "F": {
+      "item": "minecraft:arrow"
+    },
+    "S": {
+      "item": "advancedcombat:power_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_power_upgrade"
+  },
+  "show_notification": true
+}

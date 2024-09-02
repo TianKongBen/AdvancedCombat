@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "S": {
+      "item": "advancedcombat:fire_protection_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_fire_protection_upgrade"
+  },
+  "show_notification": true
+}

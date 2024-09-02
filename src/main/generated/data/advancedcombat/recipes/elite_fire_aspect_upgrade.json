@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:blaze_rod"
+    },
+    "F": {
+      "item": "minecraft:coal_block"
+    },
+    "S": {
+      "item": "advancedcombat:fire_aspect_upgrade"
+    }
+  },
+  "pattern": [
+    "CFC",
+    "FSF",
+    "CFC"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_fire_aspect_upgrade"
+  },
+  "show_notification": true
+}

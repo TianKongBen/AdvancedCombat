@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond_sword"
+    },
+    "P": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "S": {
+      "item": "advancedcombat:sharpness_upgrade"
+    }
+  },
+  "pattern": [
+    "PDP",
+    "DSD",
+    "PDP"
+  ],
+  "result": {
+    "item": "advancedcombat:elite_sharpness_upgrade"
+  },
+  "show_notification": true
+}

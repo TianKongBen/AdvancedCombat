@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_smite_upgrade": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "advancedcombat:smite_upgrade"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:elite_smite_upgrade"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_smite_upgrade",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:elite_smite_upgrade"
+    ]
+  },
+  "sends_telemetry_event": false
+}
