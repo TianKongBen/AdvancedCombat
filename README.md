@@ -13,11 +13,11 @@ This is a remake of Advanced Combat!
 ---
 ## Introduction
 
-This mod provides extremely powerful swords along with more flexible item enchanting. From advanced wooden swords to the incredible advanced nether star sword, this mod is sure to quench your thirst for power. Players can preview detailed information through JEI, REI, or EMI.
+This mod provides extremely powerful swords along with more flexible item enchanting. From advanced wooden swords to the incredible advanced nether star sword, this mod is sure to quench your thirst for power.
 
 ## Items
 ### Enchantment Upgrade
-- This mod also includes enchantment upgrades, which allow you to pick and choose enchantments for your tools and armor without needing an enchantment table or enchanted books. Simply craft the item with the upgrade and its enchantment level will go up by one.
+- This mod also includes enchantment upgrades, which allow you to pick and choose enchantments for your tools and armor without needing an enchantment table or enchanted books. Simply craft the item with the upgrade and its enchantment level will go up by one. Players can preview detailed information through JEI, REI, or EMI.
 
 - You can also create Elite Enchantment Upgrades to achieve enchantment levels up to twice the normal maximum—though some of these upgrades come at a significant cost!
 
